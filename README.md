@@ -1,1 +1,1 @@
-# Pairs_Trading_with_Python
+# Algo_Trading_with_Python
